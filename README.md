@@ -8,7 +8,7 @@ Welcome to the official Developer Environment! Here, you can create insanely pow
 
 ## Marketplace
 
-The Marketplace is a built-in section of the Freedeck Companion app that allows users to easily download plugins using [Handoff](https://github.com/Freedeck/handoff).  
+The Marketplace is a built-in section of the Freedeck Companion app that allows users to easily download plugins using [Handoff (now built into the App)](https://github.com/Freedeck/app).  
 You can host your own Marketplace repository as well [using this specification from FreedeckEx!](http://freedeckex.moonprod.me/Manifest).  
 
 [You can see the default repository raw here.](https://releases.freedeck.app/index.json)
