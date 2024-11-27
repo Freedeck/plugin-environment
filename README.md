@@ -47,7 +47,10 @@ module.exports = (socket, io, pluginInstance) => {
 }
 ```
 
-## Running
+## Testing a Plugin
+
+If you wanna test the plugin, as in: ensure it initializes, add `Operations.RUN_POST_PACKAGE` to the array in index.js.  
+This will create the package, then run it.
 
 Running a plugin uses a simulated Plugin class. This means you don't need to keep restarting Freedeck to test changes, unless it's something like a button press.  
 There are some drawbacks though:
@@ -60,3 +63,7 @@ However, it's simple to build your own tests to press the "Tile"s.
 To build and run your plugin in the dev env, just do `node index.js` and let the environment do the rest!  
 
 Very much magic.
+
+## Exporting a plugin to .fdpackage
+
+Just run `node index.js` and check the `plugins` folder.
