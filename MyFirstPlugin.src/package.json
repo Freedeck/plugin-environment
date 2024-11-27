@@ -1,0 +1,15 @@
+{
+  "keywords": [],
+  "license": "ISC",
+
+  "version": "1.0.0",
+  "main": "index.js",
+  "name": "myfirstplugin",
+  "author": "You!",
+  "description": "This is my very first plugin.",
+  "freedeck": {
+    "package": "plugin",
+    "title": "My First Plugin",
+    "disabled": false
+  }
+}
