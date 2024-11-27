@@ -15,7 +15,7 @@ You can host your own Marketplace repository as well [using this server, or your
 
 ## Want to submit your own plugin to the Marketplace?
 
-[Make an issue here! Title it something related to "Marketplace Submission"!](https://github.com/Freedeck/package-environment/issues/new)
+[Make an issue here! Title it something related to "Marketplace Submission"!](https://github.com/Freedeck/plugin-environment/issues/new)
 
 ## Back to the Developer Environment
 
